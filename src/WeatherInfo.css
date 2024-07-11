@@ -1,0 +1,22 @@
+.weather-card {
+    width: 400px;
+    margin: auto;
+  }
+  
+  .weather-image {
+    height: 200px;
+  }
+  
+  .weather-info {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .weather-info h3 {
+    margin: 0 0 5px 0;
+  }
+  
+  .weather-info p {
+    margin: 5px 0;
+  }
+  
